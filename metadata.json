@@ -1,0 +1,7 @@
+{
+  "name": "Copy of GestureFlow Particles",
+  "description": "An immersive WebGL particle system controlled by hand gestures using MediaPipe. Form shapes with open hands, explode them with a pinch. Features custom drawing and high-fidelity 3D visuals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
